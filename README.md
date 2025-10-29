@@ -1,2 +1,2 @@
-# magnuslargent.github.io
+# magnus-largent.github.io
 Personal website
